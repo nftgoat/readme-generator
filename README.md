@@ -29,4 +29,6 @@
   nftgoat
   ## Email
   justinross28@gmail.com
+  ## Video
+  https://drive.google.com/file/d/1LUGu14OqGCLtAnSdfuQaVTdYS1T8bJ3M/view
 
